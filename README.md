@@ -4,11 +4,11 @@
 
 Equipo 4:
 
-Deissy Durán Rodríguez
-Hamel Perez Benavides
-Jeckson Sampayo Mendoza
-Juan Campos Barrera
-Miguel Chavez
+* Deissy Durán Rodríguez 
+* Hamel Perez Benavides
+* Jeckson Sampayo Mendoza
+* Juan Campos Barrera
+* Miguel Chavez
 
 A continuacion se presenta el Demo para la aplicacion de conversion de divisas propuesta para la resolucion del reto N° 1 del ciclo N° 4 Mision TIC "Desarrollo Movil"
 
